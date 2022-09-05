@@ -1,1 +1,20 @@
-idk
+> assignment2<- c(6,18,14,22,27,17,22,20,22)
+> myMean <- function(assignment2) {return(sum(assignment2)/length(assignment2))}
+> mean(assignment2)
+
+// or 
+
+> myMean(assignment2)
+[1] 18.66667
+
+
+
+//  Post the result on your blog and on Canvas assignment, and describe what the function called assignment2 does.
+ 
+      // The function called assignment2 is the set database for our data frame 
+             //  inside in our (assignment2) are set of data, numbers or variables that we can use and inspect 
+          
+
+
+
+
